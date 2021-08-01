@@ -1,0 +1,13 @@
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\bin\Debug\netcoreapp3.1\SimpolKart.exe
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\bin\Debug\netcoreapp3.1\SimpolKart.deps.json
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\bin\Debug\netcoreapp3.1\SimpolKart.runtimeconfig.json
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\bin\Debug\netcoreapp3.1\SimpolKart.runtimeconfig.dev.json
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\bin\Debug\netcoreapp3.1\SimpolKart.dll
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\bin\Debug\netcoreapp3.1\SimpolKart.pdb
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\obj\Debug\netcoreapp3.1\SimpolKart.csproj.AssemblyReference.cache
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\obj\Debug\netcoreapp3.1\SimpolKart.AssemblyInfoInputs.cache
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\obj\Debug\netcoreapp3.1\SimpolKart.AssemblyInfo.cs
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\obj\Debug\netcoreapp3.1\SimpolKart.csproj.CoreCompileInputs.cache
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\obj\Debug\netcoreapp3.1\SimpolKart.dll
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\obj\Debug\netcoreapp3.1\SimpolKart.pdb
+C:\Users\sudak\source\repos\SimpolKart\SimpolKart\obj\Debug\netcoreapp3.1\SimpolKart.genruntimeconfig.cache
